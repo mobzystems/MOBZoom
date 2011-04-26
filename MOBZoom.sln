@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOBZoom", "MOBZoom\MOBZoom.csproj", "{C00F909C-86E8-4A13-BDF6-4C6DB2A89E93}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "MOBZoomSetup\MOBZoomSetup.vdproj", "{83D9F62A-AF31-41D2-A99D-86D185B0480A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C00F909C-86E8-4A13-BDF6-4C6DB2A89E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C00F909C-86E8-4A13-BDF6-4C6DB2A89E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C00F909C-86E8-4A13-BDF6-4C6DB2A89E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C00F909C-86E8-4A13-BDF6-4C6DB2A89E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83D9F62A-AF31-41D2-A99D-86D185B0480A}.Debug|Any CPU.ActiveCfg = Debug
+		{83D9F62A-AF31-41D2-A99D-86D185B0480A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
